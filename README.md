@@ -1,4 +1,7 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skylarw19&hide=stars&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skylarw19&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **skylarw19/skylarw19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
