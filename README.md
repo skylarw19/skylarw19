@@ -2,6 +2,9 @@
 
   # Hi, I'm Skylar!
   
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skylar-wong/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:li.q.wong@gmail.com)
+  
   I am a software engineer who loves to keep learning, and I enjoy hearing other people's perspectives on how to approach a particular problem. I have a background in mechanical engineering and business, which spurs me to implement the most efficient solutions. Besides coding, I read a ridiculous amount of books, but somehow my unread stack remains infinite. I also love playing logic and social deduction games with friends!
   
   ___
@@ -9,7 +12,7 @@
   ### Currently
   
   I work as full-stack software engineer using TypeScript, Angular, NgRx Store, RxJs, and GraphQL to create web apps, while maintaining clean code. I also use Jest to write unit tests and Cypress to write e2e tests.
-  
+
   ___
   
   #### Tech
